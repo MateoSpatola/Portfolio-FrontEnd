@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: teal;
+    font-size: 40pt;
+}
+
+h2 {
+    color: red;
+}
+
+p {
+    color: white;
+}
